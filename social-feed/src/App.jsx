@@ -23,13 +23,13 @@ const posts = [
   {
     id: 2,
     author: {
-      avatarUrl: 'https://github.com/naiaraborges.png',
+      avatarUrl: 'https://github.com/rocketseat.png',
       name: 'Fulano de Tal',
-      role: 'Developer'
+      role: 'Front-end e Mobile'
     },
     content: [
       {type: 'paragraph', content: 'Fala galeraa 👋',},
-      {type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀',},
+      {type: 'paragraph', content: 'É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀',},
       {type: 'link', content: 'jane.design/doctorcare',},
     ],
     publishedAt: new Date('2022-10-05 20:00:00'),
@@ -57,3 +57,5 @@ export function App() {
     </div>
   )
 }
+
+export default App;
