@@ -36,7 +36,7 @@ const posts = [
   },
 ];
 
-export function App() {
+export default function App() {
   return (
     <div>
       <Header />
@@ -46,6 +46,7 @@ export function App() {
           {posts.map(post => {
             return (
               <Post
+                key={post.id}
                 author={post.author}
                 content={post.content}
                 publishedAt={post.publishedAt}
@@ -58,4 +59,4 @@ export function App() {
   )
 }
 
-export default App;
+//export default App;
