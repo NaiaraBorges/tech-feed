@@ -3,11 +3,11 @@
     
     
   
- ##  Tech Feed 🍏
+ ##  Tech Feed 
  
-<p>Tech Feed é um projeto de um feed totalmente responsivo, onde é possível visualizar todos os posts, comentar, deletar comentário além de fazer interações com botões de Like<br></p>
+<p>Tech Feed é um projeto de um feed totalmente responsivo, onde é possível visualizar todos os posts, comentar, deletar comentários além de fazer interações com botões de Like<br></p>
 
-<p>O projeto foi desenvolvido utilizando ReactJS que é um framework poderoso para criar interfaces web.<br></p>
+<p>O projeto foi desenvolvido utilizando o framework ReactJS e Vite.<br></p>
 
 
 
@@ -22,21 +22,17 @@
 ```
 
 
-## :desktop_computer:	 Tecnologias Utilizadas
-- [Dart](https://dart.dev/)
-- [Flutter](https://flutter.dev/)
-- [GetX](https://github.com/jonataslaw/getx/blob/master/README.pt-br.md)
-- [Repositório oficial de pacotes (pubdev)](https://pub.dev/)
-
-
 ## <dt> 💚 Imagens da aplicação 🍇 </dt>
 
 #Versão Web
 
 <img src="social-feed\src\assets\screencapture-2.png" width="1000px" /> 
 
-#Versão Mobile
-<h3 align="center">
+# Versão Tablet
 
-<img src="social-feed\src\assets\screencapture-1.png" width="400px" /> 
+<img src="social-feed\src\assets\screencapture-3.png" width="750px" /> 
+
+# Versão Mobile
+
+<img src="social-feed\src\assets\screencapture-1.png" width="300px" /> 
 
