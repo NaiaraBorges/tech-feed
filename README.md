@@ -24,15 +24,15 @@
 
 ## <dt> Imagens da aplicação . Web/Tablet/Mobile </dt>
 
-#Versão Web
+### Versão Web
 
 <img src="social-feed\src\assets\screencapture-2.png" width="1000px" /> 
 
-# Versão Tablet
+ ### Versão Tablet
 
-<img src="social-feed\src\assets\screencapture-3.png" width="750px" /> 
+<img src="social-feed\src\assets\screencapture-3.png" width="700px" /> 
 
-# Versão Mobile
+### Versão Mobile
 
 <img src="social-feed\src\assets\screencapture-1.png" width="300px" /> 
 
