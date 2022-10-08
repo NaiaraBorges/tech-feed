@@ -36,7 +36,7 @@ const posts = [
   },
 ];
 
-export default function App() {
+export function App() {
   return (
     <div>
       <Header />
