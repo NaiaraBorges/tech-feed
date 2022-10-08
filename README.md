@@ -22,7 +22,7 @@
 ```
 
 
-## <dt> 💚 Imagens da aplicação 🍇 </dt>
+## <dt> Imagens da aplicação . Web/Tablet/Mobile </dt>
 
 #Versão Web
 
